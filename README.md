@@ -10,9 +10,9 @@
 
 # AUTHOR INFO
 
-- Full Names: Ethan E. Lopez, Thomas Johnson, William Meyer, Karam Aboul-Hosn
-- Student IDs: 2425516, 2437165 
-- Chapman Emails: etlopez@chapman.edu, thjohnson@chapman.edu, wmeyer@chapman.edu, kaboulhosn@chapman.edu
+- Full Names: Karam Aboul-Hosn
+- Student IDs: 2437165
+- Chapman Emails: kaboulhosn@chapman.edu
 - Course Number And Section: CPSC-353-04
 - Course Name: Data Communication and Computer Networks
 - Assignment Or Exercise Number: Lab 1: Web Server Lab
@@ -23,9 +23,9 @@
 
 ## RUN AND TEST SERVER
 
-- Run WebServer.py: python3 WebServer.py
+- Run **WebServer.py**: python3 WebServer.py
 - Open the client browser.
-- Sample Input URL: http://<host-ip>/HelloWorld.html
+- **Paste the URL**: http://<host-ip>/HelloWorld.html
 - Replace <host-ip> with the IP address of the host that is running the server.
 
 ## SOURCES
