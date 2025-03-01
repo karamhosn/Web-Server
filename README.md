@@ -10,9 +10,9 @@
 
 # AUTHOR INFO
 
-- Full Names: Karam Aboul-Hosn
-- Student IDs: 2437165
-- Chapman Emails: kaboulhosn@chapman.edu
+- Full Name: Karam Aboul-Hosn
+- Student ID: 2437165
+- Chapman Email: kaboulhosn@chapman.edu
 - Course Number And Section: CPSC-353-04
 - Course Name: Data Communication and Computer Networks
 - Assignment Or Exercise Number: Lab 1: Web Server Lab
