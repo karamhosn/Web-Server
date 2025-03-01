@@ -25,7 +25,7 @@
 
 - Run **WebServer.py**: `python3 WebServer.py`
 - Open the client browser.
-- **Paste the URL**: http://<host-ip>/HelloWorld.html
+- **Paste the URL**: `http://<host-ip>/HelloWorld.html`
 - Replace <host-ip> with the IP address of the host that is running the server.
 
 ## SOURCES
